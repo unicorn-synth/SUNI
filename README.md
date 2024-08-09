@@ -1,0 +1,2 @@
+# SUNI
+The SUNI token
