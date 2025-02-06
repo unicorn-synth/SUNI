@@ -1,10 +1,5 @@
 ## UniSynth
-
-**Warning:**  
-***UniSynth is in live demo mode. The demo is active on the ArbitrumOne chain. It has very very limited liquidity (intentional). It is a demo, please come and check it out, but do not put any real money in it. It is very likely that this version will fail and/or be mothballed before any upgrade is released. The risk of losing money placed into this system at this time is very high.*** 
-
 ### The Brief
-
 UniSynth creates synthetic ERC20 token versions of Real World Assets (RWA). Anything that is actively traded and has a price visible online can be used.
 
 We call the synthetic ERC20 token an ‘sToken’. In our initial demo release we have sToken versions of the Nasdaq100, RussianRuble, TeslaStock, PalladiumPM, China A50 & WestTexasCrudeOil.
@@ -33,6 +28,9 @@ Again, this is a demo release. Please do not put any real money into it. The ris
 4. Price feed / Oracle risks are high. The oracle could become faulty, be hacked, or taken over by a malicious actor or even a state actor.  
 5. Gas price risks exist. If the price of gas were to rise significantly, then this project may become non viable.  
 6. This is not an exhaustive or complete set of risks. 
+
+**Warning:**  
+***UniSynth is in live demo mode. The demo is active on the ArbitrumOne chain. It has very very limited liquidity (intentional). It is a demo, please come and check it out, but do not put any real money in it. It is very likely that this version will fail and/or be mothballed before any upgrade is released. The risk of losing money placed into this system at this time is very high.*** 
 
 ### Active tokens
 
